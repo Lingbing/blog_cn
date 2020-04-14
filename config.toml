@@ -4,11 +4,17 @@ author = "Lingbing Feng"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-future-imperfect"
+relativeURLS = true
+enableRobotsTXT = true
+canonifyURLs = true
+preserveTaxonomyNames = true
+paginate = 3
+pluralizeListTitles = false
 
 googleAnalytics = ""
 disqusShortname = ""
 disable_mathjax = false
-
+enableEmoji = true
 pygmentsstyle      = "vs"
 pygmentscodefences = true
 
@@ -16,6 +22,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   sitename = "Lingbing Feng's Blog"
+  # Sets the meta tag description
+  description          = "Lingbing Feng's blog"
+  # Sets the navbarTitle that appears in the top left of the navigation bar
+  navbarTitle          = "lingbing"
+  # Sets where "View More Posts" links
+  viewMorePostLink     = "/blog/"
 
 [[menu.main]]
     name = "Home"
@@ -25,3 +37,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "GitHub"
     url = "https://github.com/lingbing"
     weight = 2
+
+
+[params.intro]
+  header    = "Lingbing Feng"
+  paragraph = "Blog"
+  about     = ""
+  # This appears at the top of the sidebar above params.intro.header.
+  # A width of less than 100px is recommended from a design perspective.
+  [params.intro.pic]
+    src       = "/img/main/lingbing.jpg"
+    # Sets Image to be a cirlce
+    circle    = false
+    # Sets Image to be Future Imperfect's hexagon
+    imperfect = true
+    width     = ""
+    alt       = "headpic"
