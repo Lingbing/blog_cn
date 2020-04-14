@@ -3,18 +3,19 @@ title = "Bobby Love"
 author = "Lingbing Feng"
 canonifyurls = true
 languagecode = "en"
-theme = "hugo-academic"
 relativeURLS = true
 enableRobotsTXT = true
 canonifyURLs = true
 preserveTaxonomyNames = true
 paginate = 3
 pluralizeListTitles = false
+theme = "hugo-future-imperfect"
+
 
 googleAnalytics = ""
 disqusShortname = ""
 disable_mathjax = false
-enableEmoji = true
+
 pygmentsstyle      = "vs"
 pygmentscodefences = true
 
@@ -22,12 +23,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   sitename = "Lingbing Feng's Blog"
-  # Sets the meta tag description
-  description          = "Lingbing Feng's blog"
-  # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "lingbing"
-  # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
 
 [[menu.main]]
     name = "Home"
@@ -37,6 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "GitHub"
     url = "https://github.com/lingbing"
     weight = 2
+<<<<<<< HEAD
 
 
 [params.intro]
