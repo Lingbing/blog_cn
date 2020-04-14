@@ -3,6 +3,7 @@ title = "Bobby Love"
 author = "Lingbing Feng"
 canonifyurls = true
 languagecode = "en"
+<<<<<<< HEAD
 relativeURLS = true
 enableRobotsTXT = true
 canonifyURLs = true
@@ -10,6 +11,9 @@ preserveTaxonomyNames = true
 paginate = 3
 pluralizeListTitles = false
 theme = "hugo-future-imperfect"
+=======
+theme = "hugo-lithium"
+>>>>>>> parent of 6cb4429... new theme
 
 
 googleAnalytics = ""
