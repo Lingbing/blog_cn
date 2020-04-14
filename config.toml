@@ -9,16 +9,10 @@ relativeURLS = true
 enableRobotsTXT = true
 canonifyURLs = true
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 7
 pluralizeListTitles = false
 theme = "hugo-future-imperfect"
-=======
-theme = "hugo-lithium"
->>>>>>> parent of 6cb4429... new theme
 
-=======
-theme = "hugo-future-imperfect"
->>>>>>> parent of 0334c23... theme update
 
 googleAnalytics = ""
 disqusShortname = ""
@@ -40,8 +34,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "GitHub"
     url = "https://github.com/lingbing"
     weight = 2
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 
 [params.intro]
@@ -58,5 +50,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     imperfect = true
     width     = ""
     alt       = "headpic"
-=======
->>>>>>> parent of 0334c23... theme update
