@@ -3,7 +3,7 @@ title = "Bobby Love"
 author = "Lingbing Feng"
 canonifyurls = true
 languagecode = "en"
-theme = "hugo-lithium"
+theme = "hugo-future-imperfect"
 
 googleAnalytics = ""
 disqusShortname = ""
