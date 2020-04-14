@@ -1,5 +1,5 @@
 ---
-title: Introducing EPU pakcage
+title: Introducing the epuR pakcage
 author: Lingbing Feng
 date: '2020-04-14'
 slug: introducing-epu-pakcage
@@ -10,8 +10,7 @@ tags:
   - R
   - epuR
 ---
-# Economic Policy Uncertainty  Data Made Easy
-
+# Economic Policy Uncertainty  Data Made Easy  with  epuR
 
 The goal of `epuR` is to provide a simple and consistent framework to collect Economic Policy Uncertainty and related index data from their official web locations in real time. 
 
@@ -72,7 +71,7 @@ plot(epu_data$Australia)
 
 ```{r}
 library(dygraphs)
-dygraph(epu_data$China)
+dygraph(epu_data$China, main = "EPU of China") %>% dyRangeSelector()
 ```
 
 
@@ -94,6 +93,6 @@ Currently, the following indexes are supported:
 For example, to get the FSI data:
 ```{r}
 fsi_data <- get_FSI()
-dygraph(fsi_data)
+dygraph(fsi_data, main = "FSI Series")%>% dyRangeSelector()
 ```
 
