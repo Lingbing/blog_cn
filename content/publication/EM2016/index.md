@@ -5,7 +5,6 @@ abstract: "The Markov Regime-Switching Generalized autoregressive conditional he
 authors:
 - Yanlin Shi
 - admin
-- Gen Nowak
 
 date: "2016-11-9T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jhydrol.2014.11.012"
@@ -13,7 +12,7 @@ doi: "https://doi.org/10.1016/j.jhydrol.2014.11.012"
 featured: false
 
 publication_types: ["2"]
-publication_date: "2016-11-9T00:00:00Z"
+publication_date: "2016-11-9"
 publication: '*Economic Modelling, 53*'
 publication_short: "EconM"
 
