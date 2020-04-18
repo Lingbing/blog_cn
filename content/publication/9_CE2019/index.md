@@ -7,7 +7,7 @@ authors:
 - admin
 - Tong Fu
 
-date: "2019-02-27T00:00:00Z"
+date: "2019-02-27"
 doi: "https://doi.org/10.1007/s10614-019-09882-2"
 
 featured: false

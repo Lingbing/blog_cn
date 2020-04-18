@@ -5,13 +5,13 @@ abstract: "It is well known that accurate forecasts of mortality rates are essen
 authors:
 - admin
 - Yanlin Shi
-date: "2018-07-09T00:00:00Z"
+date: "2018-07-09"
 doi: "https://doi.org/10.1007/s12546-018-9205-z"
 
 featured: false
 
 publication_types: ["2"]
-publication_date: "2018-07-9T00:00:00Z"
+publication_date: "2018-07-09"
 publication: '*Journal of Population Research, 35, pp. 289-318*'
 publication_short: "JPR"
 

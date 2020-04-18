@@ -6,13 +6,13 @@ authors:
 - Tong Fu
 - Ali M. Kutan
 
-date: "2019-01-9T00:00:00Z"
+date: "2019-01-09"
 doi: "https://doi.org/10.1016/j.irfa.2018.10.010"
 
 featured: false
 
 publication_types: ["2"]
-publication_date: "2019-1-9"
+publication_date: "2019-01-09"
 publication: '*International Review of Financial Analysis, (61)* pp. 71-81'
 publication_short: "IRFA"
 

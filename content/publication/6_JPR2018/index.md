@@ -8,13 +8,13 @@ authors:
 - T. J. O'Neill
 - admin
 
-date: "2018-02-9T00:00:00Z"
+date: "2018-02-09"
 doi: "https://doi.org/10.1016/j.jhydrol.2017.11.021"
 
 featured: false
 
 publication_types: ["2"]
-publication_date: "2016-11-9"
+publication_date: "2018-02-09"
 publication: '*Journal of Hydrology, (557)* pp. 522-538'
 publication_short: "JoH"
 
