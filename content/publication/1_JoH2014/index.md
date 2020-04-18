@@ -7,20 +7,20 @@ authors:
 - Gen Nowak
 - T. J. O'Neill
 - A. H. Welsh
-date: "2014-11-9T00:00:00Z"
+date: "2014-11-09"
 doi: "https://doi.org/10.1016/j.jhydrol.2014.11.012"
 
 featured: false
 
 publication_types: ["2"]
-publication_date: "2014-11-9T00:00:00Z"
-publication: '*Journal of Hydrology, 519*'
+publication_date: "2014-11-09"
+publication: '*Journal of Hydrology, 519 (D)* pp.3591-3605'
 publication_short: "JoH"
 
 
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf:
 url_poster: ""
 url_project: ""
 url_slides: ""

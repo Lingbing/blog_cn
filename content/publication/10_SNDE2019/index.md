@@ -6,7 +6,7 @@ authors:
 - admin
 - Yanlin Shi
 
-date: "2019-05-09T00:00:00Z"
+date: "2019-05-09"
 doi: "https://doi.org/10.1515/snde-2018-0008"
 
 featured: false

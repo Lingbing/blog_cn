@@ -6,14 +6,14 @@ authors:
 - Yanlin Shi
 - admin
 
-date: "2016-11-9T00:00:00Z"
-doi: "https://doi.org/10.1016/j.jhydrol.2014.11.012"
+date: "2016-02-01"
+doi: "https://doi.org/10.1016/j.econmod.2015.11.018"
 
 featured: false
 
 publication_types: ["2"]
-publication_date: "2016-11-9"
-publication: '*Economic Modelling, 53*'
+publication_date: "2016-02-01"
+publication: '*Economic Modelling, 53* pp.278-288'
 publication_short: "EconM"
 
 

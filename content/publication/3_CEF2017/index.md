@@ -5,13 +5,13 @@ abstract: "Generalized autoregressive conditional heteroskedastic (GARCH) model 
 authors:
 - admin
 - Yanlin Shi
-date: "2017-06-09T00:00:00Z"
+date: "2017-07-27"
 doi: "https://doi.org/10.1080/23322039.2017.1355503"
 
 featured: false
 
 publication_types: ["2"]
-publication_date: "2017-6-9T00:00:00Z"
+publication_date: "2017-07-27"
 publication: '*Cogent Economics and Finance, 5(1)*'
 publication_short: "CEF"
 

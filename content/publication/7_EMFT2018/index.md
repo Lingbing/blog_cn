@@ -1,19 +1,20 @@
 ---
-title: "Forecasting mortality rates: multivariate or univariate models?"
-abstract: "It is well known that accurate forecasts of mortality rates are essential to various demographic research topics, such as population projections and the pricing of insurance products such as pensions and annuities. In this study, we argue that including the lagged rates of neighbouring ages cannot further improve mortality forecasting after allowing for autocorrelations. This is because the sample cross-correlation function cannot exhibit meaningful and statistically significant correlations. In other words, rates of neighbouring ages are usually not leading indicators in mortality forecasting. Therefore, multivariate stochastic mortality models like the classic Lee–Carter may not necessarily lead to more accurate forecasts, compared with sophisticated univariate models. Using Australian mortality data, simulation and empirical studies employing the Lee–Carter, Functional Data, Vector Autoregression, Autoregression-Autoregressive Conditional Heteroskedasticity and exponential smoothing (ETS) state space models are performed. Results suggest that ETS models consistently outperform the others in terms of forecasting accuracy. This conclusion holds for both female and male mortality data with different empirical features across various forecasting error measurements. Hence, ETS can be a widely useful tool to model and forecast mortality rates in actuarial practice."
+title: "Fuel Intensity, Access to Finance and Profitability: Firm-Level Evidence from China"
+abstract: "Sustainability and energy economics together as a field has rapidly developed in recent years. However, it is still limited of the literature regarding the effect of energy on firm performance. This article fills the gap by providing empirical evidence from China on the fuel intensity-performance link at the firm level. Our findings are summarized as follows: (i) firms’ fuel intensity significantly constrains the firms’ profitability and the constraint effect is significantly greater for firms with no access to finance; (ii) an increase in fuel intensity reduces profitability by intensifying the financial constraint effect; and (iii) financial access moderates the constraint effect of fuel intensity on firm’s performance. The policy implications of the findings are discussed."
 
 authors:
 - admin
-- Yanlin Shi
-date: "2018-07-09"
-doi: "https://doi.org/10.1007/s12546-018-9205-z"
+- Tong Fu
+- Ali M. Kutan
+date: "2018-07-27"
+doi: "https://doi.org/10.1080/1540496X.2017.1403317"
 
 featured: false
 
 publication_types: ["2"]
-publication_date: "2018-07-09"
-publication: '*Journal of Population Research, 35, pp. 289-318*'
-publication_short: "JPR"
+publication_date: "2018-07-27"
+publication: '*Emerging Markets Finance and Trade, 54* pp.3117-3130'
+publication_short: "EMFT"
 
 
 url_code: ""

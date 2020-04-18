@@ -1,22 +1,20 @@
 ---
-title: "Spatio-temporal modelling of rainfall in the Murray-Darling Basin"
-abstract: "The Murray-Darling Basin (MDB) is a large geographical region in southeastern Australia that contains many rivers and creeks, including Australia’s three longest rivers, the Murray, the Murrumbidgee and the Darling. Understanding rainfall patterns in the MDB is very important due to the significant impact major events such as droughts and floods have on agricultural and resource productivity. We propose a model for modelling a set of monthly rainfall data obtained from stations in the MDB and for producing predictions in both the spatial and temporal dimensions. The model is a hierarchical spatio-temporal model fitted to geographical data that utilises both deterministic and data-derived components. Specifically, rainfall data at a given location are modelled as a linear combination of these deterministic and data-derived components. A key advantage of the model is that it is fitted in a step-by-step fashion, enabling appropriate empirical choices to be made at each step."
+title: "Forecasting mortality rates: multivariate or univariate models?"
+abstract: "It is well known that accurate forecasts of mortality rates are essential to various demographic research topics, such as population projections and the pricing of insurance products such as pensions and annuities. In this study, we argue that including the lagged rates of neighbouring ages cannot further improve mortality forecasting after allowing for autocorrelations. This is because the sample cross-correlation function cannot exhibit meaningful and statistically significant correlations. In other words, rates of neighbouring ages are usually not leading indicators in mortality forecasting. Therefore, multivariate stochastic mortality models like the classic Lee–Carter may not necessarily lead to more accurate forecasts, compared with sophisticated univariate models. Using Australian mortality data, simulation and empirical studies employing the Lee–Carter, Functional Data, Vector Autoregression, Autoregression-Autoregressive Conditional Heteroskedasticity and exponential smoothing (ETS) state space models are performed. Results suggest that ETS models consistently outperform the others in terms of forecasting accuracy. This conclusion holds for both female and male mortality data with different empirical features across various forecasting error measurements. Hence, ETS can be a widely useful tool to model and forecast mortality rates in actuarial practice."
 
 authors:
-- Gen Nowak
-- A. H. Welsh
-- T. J. O'Neill
 - admin
+- Yanlin Shi
 
-date: "2018-02-09"
-doi: "https://doi.org/10.1016/j.jhydrol.2017.11.021"
+date: "2018-07-09"
+doi: "https://doi.org/10.1007/s12546-018-9205-z"
 
-featured: false
+featured: true
 
 publication_types: ["2"]
-publication_date: "2018-02-09"
-publication: '*Journal of Hydrology, (557)* pp. 522-538'
-publication_short: "JoH"
+publication_date: "2018-07-09"
+publication: '*Journal of Population Research, 35* pp. 289–318'
+publication_short: "JPR"
 
 
 url_code: ""

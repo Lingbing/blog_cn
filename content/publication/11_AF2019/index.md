@@ -9,13 +9,13 @@ authors:
 - Hu Tao
 - Wu Yan
 
-date: "2019-12-9T00:00:00Z"
+date: "2019-12-09"
 doi: "https://doi.org/10.1111/acfi.12559"
 
 featured: false
 
 publication_types: ["2"]
-publication_date: "2019-12-9T00:00:00Z"
+publication_date: "2019-12-09"
 publication: '*Accouting and Finance, 59(5)* pp. 2855-2878'
 publication_short: "AF"
 
