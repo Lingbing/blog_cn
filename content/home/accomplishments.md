@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = "I sporadically take MOOC courses as a way of learning new things, and certificates are by-products of the learning experience. Some courses are very useful, some are not. But it is true that taking useless courses can be beneficial to improve my own teaching"
+subtitle = "I sporadically take MOOC courses as a way of learning new things, and certificates are by-products of the learning experience. Some courses are very useful, some are not. But taking useless courses can be beneficial to improve teaching"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
