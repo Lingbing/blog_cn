@@ -1,28 +1,33 @@
 ---
 authors:
 - admin
-bio: My research interests include financial modelling, machine learning and applied statistics. 
+bio: You know me better
 education:
   courses:
-  - course: PhD in Statistics
+  - course: Ph.D. in Statistics
     institution: The Australian National University
     year: 2015
   - course: Mater in Statistics 
     institution: Renmin University of China
     year: 2011
-  - course: BSc in Economics & Law 
+  - course: BSc. in Economics & Law 
     institution: Zhongnan University of Economics and Law
     year: 2009
   
 email: ""
 interests:
 - Financial Modelling
+- Forecasting
 - Machine Learning 
-- Applied Statistics
+- Missing value imputation
+- spatio-temporal analysis
+- Energy economics
+- Sports
+
 organizations:
 - name: Jiangxi University of Finance and Economics
-  url: ""
-role: Assistant Professor in Finance
+  url: "www.jxufe.edu.cn"
+role: Lecturer
 social:
 - icon: orcid
   icon_pack: ai
